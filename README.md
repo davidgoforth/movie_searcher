@@ -9,4 +9,4 @@ This repo is an app that uses the TMDB API to search movies in the database.
 
 ## Test here by clicking the link below!
 
-[CLICK ME]
+[CLICK ME]https://davidgoforth.github.io/movie_searcher/
